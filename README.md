@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Muti-Kara
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently studying at Bilkent University CS Department as a freshman
+- 🌱 I’m currently studying at Bilkent University CS Department
